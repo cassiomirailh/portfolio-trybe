@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+    }
+    #nome{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #description{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #colabora{
+        font-size: 30px;
+    }
+    #flex{
+        font-size: 27px;
+    }
+    #proa{
+        font-size: 23px;
+    }
+    #persis{
+        font-size: 18px;
+    }
