@@ -1,11 +1,15 @@
 body{
-    background-color: grey;
+    background-color: rgb(182, 176, 176);
     }
     #nome{
         font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
     }
     #description{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        position: absolute;
+        left: 26%;
+        top: 33%;
     }
     #colabora{
         font-size: 30px;
@@ -18,4 +22,16 @@ body{
     }
     #persis{
         font-size: 18px;
+    }
+    #foto{
+        float: left;
+        padding: 10px;
+        background-color: s;
+    }
+    .image-container{
+        height: 220px;
+        position: relative;
+    }
+    ol li:nth-child(odd){
+        background-color: seagreen;
     }
